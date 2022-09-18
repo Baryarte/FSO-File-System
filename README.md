@@ -10,10 +10,10 @@ Preferência implementar em RUST
 
 Teste do editor:
 
-1.	Deletar um arquivo pelo Windows Explorer. Undeletar o arquivo pelo Editor de Setor (EDS) e vice-versa.
+1.	@zFightx e @Baryarte: Deletar um arquivo pelo Windows Explorer. Undeletar o arquivo pelo Editor de Setor (EDS) e vice-versa.
 
-2.	Criar arquivos escondidos do Windows Explorer, mas acessíveis pelo EDS
+2.	@thlmenezes e @fernandams: Criar arquivos escondidos do Windows Explorer, mas acessíveis pelo EDS
 
-3.	Navegar pelos diretórios do pen drive pelo EDS
+3.	@IzzyAlex: Navegar pelos diretórios do pen drive pelo EDS
 
 Isto pode ser feito de modo manual ou automático. Vocês escolhem.
